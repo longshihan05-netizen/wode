@@ -1,0 +1,8 @@
+{
+  "name": "my-smart-assistant",
+  "version": "1.0.0",
+  "description": "我的第一个智能助手网站",
+  "scripts": {
+    "dev": "python -m http.server 3000"
+  }
+}
